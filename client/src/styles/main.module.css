@@ -1,0 +1,66 @@
+.darkBg {
+  background-color: rgb(41, 41, 41);
+  color: white;
+}
+
+.indexHeader {
+  height: 30vh;
+  background-color: #3a3a3a;
+  color: white;
+}
+
+.title {
+  font-size: 30px;
+  letter-spacing: 1rem;
+}
+
+.subtitle {
+  font-size: 20px;
+  letter-spacing: 0.5rem;
+}
+
+.indexHalf {
+  height: 70vh;
+}
+
+.indexHalf a {
+  width: 100%;
+  color: inherit;
+  text-decoration: none;
+}
+
+.btnRed {
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(121, 9, 13, 1) 48%,
+    rgba(255, 0, 155, 1) 100%
+  ) !important;
+}
+
+.btnGreen {
+  background: linear-gradient(
+    90deg,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 121, 99, 1) 48%,
+    rgba(0, 212, 255, 1) 100%
+  ) !important;
+}
+
+.indexSection {
+  height: 100px;
+  width: 100%;
+}
+
+.bgBlue {
+  background-color: rgb(100, 100, 255);
+}
+
+.fullWidth {
+  width: 100%;
+}
+
+.bgWhite {
+  background-color: white !important;
+  border-radius: 4px;
+}
